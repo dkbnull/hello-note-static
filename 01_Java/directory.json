@@ -3,7 +3,7 @@
   "children": [
     {
       "name": "Java使用JNA方式调用DLL",
-      "path": "./01_JAVA/01_Java使用JNA方式调用DLL.html",
+      "path": "./01_Java/01_Java使用JNA方式调用DLL.html",
       "date": "2020-03-22",
       "summary": "这里是文章摘要..."
     }
