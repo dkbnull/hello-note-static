@@ -90,9 +90,9 @@ async function generateArticleList() {
     // 配置目录文件路径
     let DIRECTORY_PATH;
     if (directory !== null) {
-        DIRECTORY_PATH = `./hello-note-static/${encodeURIComponent(directory)}/directory.json`;
+        DIRECTORY_PATH = `./${encodeURIComponent(directory)}/directory.json`;
     } else {
-        DIRECTORY_PATH = './hello-note-static/directory.json';
+        DIRECTORY_PATH = './directory.json';
     }
 
     const container = document.getElementById('article-list');
