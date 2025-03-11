@@ -13,7 +13,7 @@
 let directoryData = null;
 
 function loadDirectoryData() {
-    return fetch('/hello-note-static/directory.json')
+    return fetch('./directory.json')
         .then(response => response.json())
         .then(data => {
             directoryData = data;
