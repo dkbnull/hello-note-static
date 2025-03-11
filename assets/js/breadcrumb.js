@@ -20,12 +20,12 @@ function generateBreadcrumb() {
         .filter(p => p && p !== 'index.html')
         .map(segment => decodeURIComponent(segment)); // 解码
 
-    let breadcrumbHtml = '<a href="/">首页</a>';
+    let breadcrumbHtml = '<a href="/hello-note-static/">首页</a>';
     let accumulatedPath = '';
 
     segments.forEach((segment, index) => {
         const isLast = index === segments.length - 1;
-        accumulatedPath += `/${encodeURIComponent(segment)}`; // 重新编码路径
+        accumulatedPath += `/hello-note-static/${encodeURIComponent(segment)}`; // 重新编码路径
 
         const name = segment.replace(/.html$/, '');
         const friendlyNames = {

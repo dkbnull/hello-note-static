@@ -11,7 +11,7 @@
  */
 document.addEventListener('DOMContentLoaded', function () {
     // 加载页头
-    fetch('/templates/header.html')
+    fetch('/hello-note-static/templates/header.html')
         .then(response => response.text())
         .then(html => {
             const headerPlaceholder = document.createElement('div');
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
         });
 
     // 加载页脚
-    fetch('/templates/footer.html')
+    fetch('/hello-note-static/templates/footer.html')
         .then(response => response.text())
         .then(html => {
             const footerPlaceholder = document.createElement('div');
