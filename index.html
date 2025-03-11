@@ -6,9 +6,35 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>hello note</title>
+    <title>首页 - 笔记</title>
+    <meta name="description" content="你好, 笔记">
+    <meta name="keywords" content="笔记, 编程, 技术, 博客, 知识库">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/index.css">
+    <link rel="stylesheet" href="/assets/css/directory.css">
 </head>
 <body>
-hello note
+
+<div id="main-container">
+    <!-- 左侧目录 -->
+    <div id="sidebar">
+        <div id="directory-tree"></div>
+    </div>
+
+    <!-- 右侧内容 -->
+    <div id="content">
+        <!-- 面包屑导航 -->
+        <div id="breadcrumb-container"></div>
+
+        <!-- 文章列表 -->
+        <div id="article-list">
+
+        </div>
+    </div>
+</div>
+
+<script src="/assets/js/script.js"></script>
+<script src="/assets/js/breadcrumb.js"></script>
+<script src="/assets/js/directory.js"></script>
 </body>
 </html>

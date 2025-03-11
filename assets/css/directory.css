@@ -1,0 +1,67 @@
+/*
+ * Copyright (c) 2017-2025 null. All rights reserved.
+ */
+
+/**
+ * directory.css
+ *
+ * @author null
+ * @date 2025-03-11
+ * @link <a href="https://github.com/dkbnull/hello-note-static">GitHub</a>
+ */
+/* 目录树样式 */
+#directory-tree {
+    font-family: monospace;
+    margin: 20px 0;
+}
+
+.directory-list {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.directory-item {
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+.folder::before {
+    content: "📁 ";
+    cursor: pointer;
+}
+
+.file::before {
+    content: "📄 ";
+}
+
+.folder.collapsed > ul {
+    display: none;
+}
+
+.directory-item .icon {
+    margin-right: 8px;
+}
+
+.directory-item .name {
+    color: #333;
+}
+
+.directory-item .name a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.directory-item .name a:hover {
+    text-decoration: underline;
+}
+
+/* 文件夹选中效果 */
+.directory-item.collapsed .folder {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* 初始状态 */
+.directory-list {
+    display: block;
+}

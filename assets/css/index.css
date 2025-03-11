@@ -1,0 +1,39 @@
+/*
+ * Copyright (c) 2017-2025 null. All rights reserved.
+ */
+
+/**
+ * index.css
+ *
+ * @author null
+ * @date 2025-03-11
+ * @link <a href="https://github.com/dkbnull/hello-note-static">GitHub</a>
+ */
+/* 基础样式 */
+body {
+    max-width: 80%;
+}
+
+/* 基础布局 */
+#main-container {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    min-height: 100vh;
+}
+
+/* 左侧目录树 */
+#sidebar {
+    width: 300px;
+    border-right: 1px solid #eee;
+    padding-right: 20px;
+    margin-right: 20px;
+    overflow-y: auto;
+}
+
+/* 右侧文章列表 */
+#content {
+    flex: 1;
+    max-width: 800px;
+}
