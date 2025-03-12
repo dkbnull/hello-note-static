@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot整合Dubbo+ZooKeeper",
+      "path": "./11_SpringBoot/18_Spring Boot整合Dubbo+ZooKeeper.html",
+      "date": "2024-04-10",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot引入外部jar包并打包",
       "path": "./11_SpringBoot/17_Spring Boot引入外部jar包并打包.html",
       "date": "2024-04-06",
