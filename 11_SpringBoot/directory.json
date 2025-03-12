@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot整合WebSocket实现实时消息推送",
+      "path": "./11_SpringBoot/Spring Boot整合WebSocket实现实时消息推送.html",
+      "date": "2022-07-02",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot整合Logback记录日志",
       "path": "./11_SpringBoot/09_Spring Boot整合Logback记录日志.html",
       "date": "2019-07-10",
