@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot跨域问题解决",
+      "path": "./11_SpringBoot/21_Spring Boot跨域问题解决.html",
+      "date": "2024-04-28",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot整合RabbitMQ",
       "path": "./11_SpringBoot/20_Spring Boot整合RabbitMQ.html",
       "date": "2024-04-20",
