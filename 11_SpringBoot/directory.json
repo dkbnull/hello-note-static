@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot整合RabbitMQ",
+      "path": "./11_SpringBoot/20_Spring Boot整合RabbitMQ.html",
+      "date": "2024-04-20",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot整合Elasticsearch",
       "path": "./11_SpringBoot/19_Spring Boot整合Elasticsearch.html",
       "date": "2024-04-14",
