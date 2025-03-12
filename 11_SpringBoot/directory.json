@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot整合Logback记录日志",
+      "path": "./11_SpringBoot/09_Spring Boot整合Logback记录日志.html",
+      "date": "2019-07-10",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot实现文件上传与下载",
       "path": "./11_SpringBoot/08_Spring Boot实现文件上传与下载.html",
       "date": "2019-03-27",
