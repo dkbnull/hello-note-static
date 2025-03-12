@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot引入外部jar包并打包",
+      "path": "./11_SpringBoot/17_Spring Boot引入外部jar包并打包.html",
+      "date": "2024-04-06",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot页面国际化",
       "path": "./11_SpringBoot/16_Spring Boot页面国际化.html",
       "date": "2024-03-31",
