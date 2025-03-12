@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot整合MyBatis Plus配置多数据源",
+      "path": "./11_SpringBoot/13_Spring Boot整合MyBatis Plus配置多数据源.html",
+      "date": "2024-03-10",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot整合MyBatis配置多数据源",
       "path": "./11_SpringBoot/12_Spring Boot整合MyBatis配置多数据源.html",
       "date": "2024-03-03",
