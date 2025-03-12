@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot支持发送邮件",
+      "path": "./11_SpringBoot/22_Spring Boot支持发送邮件.html",
+      "date": "2024-05-12",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot跨域问题解决",
       "path": "./11_SpringBoot/21_Spring Boot跨域问题解决.html",
       "date": "2024-04-28",
