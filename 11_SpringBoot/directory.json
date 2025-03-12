@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot整合Redis",
+      "path": "./11_SpringBoot/15_Spring Boot整合Redis.html",
+      "date": "2024-03-27",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot整合Spring Security",
       "path": "./11_SpringBoot/14_Spring Boot整合Spring Security.html",
       "date": "2024-03-21",
