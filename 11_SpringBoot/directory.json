@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot使用AOP实现拦截器",
+      "path": "./11_SpringBoot/03_Spring Boot使用AOP实现拦截器.html",
+      "date": "2018-09-26",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot读取properties配置文件中的数据",
       "path": "./11_SpringBoot/02_Spring Boot读取properties配置文件中的数据.html",
       "date": "2018-08-23",
