@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Windows&Linux环境下Spring Boot启动和关闭脚本",
+      "path": "./11_SpringBoot/23_Windows&Linux环境下Spring Boot启动和关闭脚本.html",
+      "date": "2024-05-26",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot支持发送邮件",
       "path": "./11_SpringBoot/22_Spring Boot支持发送邮件.html",
       "date": "2024-05-12",
