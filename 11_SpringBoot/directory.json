@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot使用Schedule实现定时任务",
+      "path": "./11_SpringBoot/06_Spring Boot使用Schedule实现定时任务.html",
+      "date": "2019-02-19",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot整合MyBatis连接数据库",
       "path": "./11_SpringBoot/05_Spring Boot整合MyBatis连接数据库.html",
       "date": "2019-02-14",
