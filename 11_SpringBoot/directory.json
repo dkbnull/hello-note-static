@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "Spring Boot整合Elasticsearch",
+      "path": "./11_SpringBoot/19_Spring Boot整合Elasticsearch.html",
+      "date": "2024-04-14",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Boot整合Dubbo+ZooKeeper",
       "path": "./11_SpringBoot/18_Spring Boot整合Dubbo+ZooKeeper.html",
       "date": "2024-04-10",
