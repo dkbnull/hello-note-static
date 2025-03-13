@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "IDEA直接打包Docker镜像",
+      "path": "./52_Docker/05_IDEA直接打包Docker镜像.html",
+      "date": "2023-03-18",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Docker打包离线镜像到本地，上传解压到服务器",
       "path": "./52_Docker/04_Docker打包离线镜像到本地，上传解压到服务器.html",
       "date": "2024-02-18",
