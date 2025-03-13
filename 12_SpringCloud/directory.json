@@ -2,6 +2,12 @@
   "name": "12_SpringCloud",
   "children": [
     {
+      "name": "Spring Cloud 服务注册与发现 Eureka",
+      "path": "./12_SpringCloud/02_Spring Cloud 服务注册与发现 Eureka.html",
+      "date": "2019-04-13",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Cloud整合Spring Boot(服务提供者和服务消费者)",
       "path": "./12_SpringCloud/01_Spring Cloud整合Spring Boot(服务提供者和服务消费者).html",
       "date": "2019-04-12",
