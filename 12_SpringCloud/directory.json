@@ -2,6 +2,12 @@
   "name": "12_SpringCloud",
   "children": [
     {
+      "name": "Spring Cloud 全链路跟踪 Zipkin",
+      "path": "./12_SpringCloud/08_Spring Cloud 全链路跟踪 Zipkin.html",
+      "date": "2019-06-27",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Cloud Config 分布式配置中心",
       "path": "./12_SpringCloud/07_Spring Cloud Config 分布式配置中心.html",
       "date": "2019-05-08",
