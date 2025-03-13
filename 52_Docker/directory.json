@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "MySQL主从复制",
+      "path": "./52_Docker/06_MySQL主从复制.html",
+      "date": "2023-04-06",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "IDEA直接打包Docker镜像",
       "path": "./52_Docker/05_IDEA直接打包Docker镜像.html",
       "date": "2023-03-18",
