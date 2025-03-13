@@ -2,6 +2,12 @@
   "name": "12_SpringCloud",
   "children": [
     {
+      "name": "Spring Cloud Config 分布式配置中心",
+      "path": "./12_SpringCloud/07_Spring Cloud Config 分布式配置中心.html",
+      "date": "2019-05-08",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Cloud 路由网关和过滤器 Zuul",
       "path": "./12_SpringCloud/06_Spring Cloud 路由网关和过滤器 Zuul.html",
       "date": "2019-05-01",
