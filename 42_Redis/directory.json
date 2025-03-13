@@ -1,5 +1,11 @@
 {
   "name": "42_Redis",
   "children": [
+    {
+      "name": "Redis学习笔记",
+      "path": "./42_Redis/01_Redis学习笔记.html",
+      "date": "2024-06-11",
+      "summary": "这里是文章摘要..."
+    }
   ]
 }
