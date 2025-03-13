@@ -2,6 +2,12 @@
   "name": "12_SpringCloud",
   "children": [
     {
+      "name": "Spring Cloud Feign的使用和自定义配置",
+      "path": "./12_SpringCloud/04_Spring Cloud Feign的使用和自定义配置.html",
+      "date": "2019-04-25",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Spring Cloud 自定义Eureka Ribbon负载均衡策略",
       "path": "./12_SpringCloud/03_Spring Cloud 自定义Eureka Ribbon负载均衡策略.html",
       "date": "2019-04-25",
