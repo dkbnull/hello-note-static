@@ -8,6 +8,12 @@
       "summary": "这里是文章摘要..."
     },
     {
+      "name": "部署Redis集群",
+      "path": "./52_Docker/07_部署Redis集群.html",
+      "date": "2023-04-07",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "MySQL主从复制",
       "path": "./52_Docker/06_MySQL主从复制.html",
       "date": "2023-04-06",
