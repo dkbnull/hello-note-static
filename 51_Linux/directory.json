@@ -2,6 +2,12 @@
   "name": "51_Linux",
   "children": [
     {
+      "name": "Centos7虚拟机无法连接网络",
+      "path": "./51_Linux/02_Centos7虚拟机无法连接网络.html",
+      "date": "2023-02-14",
+      "summary": "这里是文章摘要..."
+    },
+    {
       "name": "Linux服务器部署Spring Boot服务",
       "path": "./51_Linux/01_Linux服务器部署Spring Boot服务.html",
       "date": "2021-02-02",
