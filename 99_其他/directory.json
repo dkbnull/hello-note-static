@@ -1,5 +1,11 @@
 {
   "name": "99_其他",
   "children": [
+    {
+      "name": "GitLab统计代码量",
+      "path": "./99_其他/01_GitLab统计代码量.html",
+      "date": "2023-05-01",
+      "summary": "这里是文章摘要..."
+    }
   ]
 }
